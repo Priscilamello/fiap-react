@@ -18,11 +18,11 @@ function Tabela(){
   return (
       <div>
         <form className="formulario">
-        <label>Nome</label>
+        <label>Nome: </label>
         <input name="name" value="" />
-        <label>Email</label>
+        <label>Email: </label>
         <input name="email" value="" />
-        <label>senha</label>
+        <label>senha: </label>
         <input name="password" value="" />
 
         <button type="submit">Enviar</button>    
